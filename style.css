@@ -141,7 +141,7 @@ span{
     }
 }@media screen and (max-height: 200px)
 {
-    .main{
+    .details{
         display: none;
     }
     .main2{
